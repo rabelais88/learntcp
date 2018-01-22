@@ -1,0 +1,11 @@
+{
+  "name": "learntcp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tcpserver.js",
+  "scripts": {
+    "test": "node tcpserver.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
